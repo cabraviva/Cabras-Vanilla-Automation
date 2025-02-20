@@ -26,13 +26,33 @@ Yes, you definitely can! This pack is licensed under the MIT, or in simple terms
 ## Features
 
 ### Implemented
- - 
+
+#### Block farming using sniffers
+<details>
+  <summary>Expand</summary>
+
+![Preview Image](img/sniffer.png)
+
+Sniffers are now able to dig for blocks, if they stand directly on them. Every 30 seconds, 2 items will be dropped. You can collect those via hopper minecarts.
+<br>
+**Currently following blocks are supported**:
+- Sand
+- Red sand
+- Granite
+- Diorite
+- Andesite
+- Gravel
+- Dirt
+
+</details>
 
 ### Planned
  - Automated trading with some villagers
- - Farming sand, dirt, andesite and other blocks using sniffers
  - Farming diamonds using allays
  - Lava farming using striders
  - Automating nether stars and wither roses
+ - Farm dye easily
+ - Easy village breeding
+ - Remote item pipeline
  - Adding more use to turtles, axolotls, bees and foxes
  - Everything you guys request
