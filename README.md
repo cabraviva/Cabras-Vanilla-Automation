@@ -1,5 +1,5 @@
 # Cabra's Vanilla Automation
-Hey there! This Cabra's Vanilla Automation, a datapack for minecraft, tested and working on **1.20.1**, which adds neat automation tweaks to minecraft while staying vanilla-friendly. I tried to extend vanilla mobs with cool automation functionality, some useful for every game, some for modded minecraft and some are just fun to play with. See the [Feature List](#feature) [FAQ](#FAQ)
+Hey there! This Cabra's Vanilla Automation, a datapack for minecraft, tested and working on **1.20.1**, which adds neat automation tweaks to minecraft while staying vanilla-friendly. I tried to extend vanilla mobs with cool automation functionality, some useful for every game, some for modded minecraft and some are just fun to play with. See the [Feature List](#feature) and [FAQ](#FAQ)
 
 
 ## FAQ
