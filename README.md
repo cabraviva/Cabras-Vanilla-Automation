@@ -46,10 +46,20 @@ Sniffers are now able to dig for blocks, if they stand directly on them. Every 3
 
 </details>
 
+
+#### Extremely efficient strider lava farm
+<details>
+  <summary>Expand</summary>
+
+![Preview Image](img/strider-lava-farm.png)
+
+A farm built exactly like shown in the image, allows you to input empty buckets in the top chest, which will be filled up with lava and are spit out in the bottom chest. It requires a strider in a 3x3x3 block lava source (in any dimension), which can not move. The farm produces one lava bucket per tick, but only while empty buckets are present. You can put multiple striders in one farm, but this will have no result, so if you need more lava, please create a second farm. Your new lava farm can be used to provide fuel for furnaces or even other mods, or create an obsidian generator, which you sadly can't fully automate by now, but there are cool mods for this like RedstoneBits which add a breaker block. And yes, you can build dripstone lava farms, but they are large and not very efficient. This farm not only is much more useful, but also adds an actual use case for the strider mob in the late game phase.
+
+</details>
+
 ### Planned
  - Automated trading with some villagers
  - Farming diamonds using allays
- - Lava farming using striders
  - Automating nether stars and wither roses
  - Farm dye easily
  - Easy village breeding
