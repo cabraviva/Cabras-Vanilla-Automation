@@ -1,0 +1,28 @@
+name: Manual Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get run number
+        id: version
+        run: echo "VERSION=Cabras Vanilla Automation - v${{ github.run_number }}" >> $GITHUB_ENV
+
+      - name: Zip datapack folder
+        run: |
+          zip -r "Cabras Vanilla Automation.zip" "Cabras Vanilla Automation/"
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "v${{ github.run_number }}"
+          name: "${{ env.VERSION }}"
+          files: "Cabras Vanilla Automation.zip"
+          draft: false
+          prerelease: false
