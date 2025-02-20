@@ -57,10 +57,17 @@ A farm built exactly like shown in the image, allows you to input empty buckets 
 
 </details>
 
+#### Simple wither farm
+<details>
+  <summary>Expand</summary>
+
+![Preview Image](img/wither-farm.png)
+
+</details>
+
 ### Planned
  - Automated trading with some villagers
  - Farming diamonds using allays
- - Automating nether stars and wither roses
  - Farm dye easily
  - Easy village breeding
  - Remote item pipeline
