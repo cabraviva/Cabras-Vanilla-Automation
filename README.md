@@ -74,4 +74,5 @@ Building a structure like shown in the image, will result in a tiny, simple with
  - Easy village breeding
  - Remote item pipeline
  - Adding more use to turtles, axolotls, bees and foxes
+ - Maybe automating elytras (has to be really expensive to make)
  - Everything you guys request
