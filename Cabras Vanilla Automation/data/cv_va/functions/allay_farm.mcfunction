@@ -1,0 +1,1 @@
+execute as @e[type=allay] at @s if block ~ ~1 ~ diamond_block if entity @e[distance=..5,type=item_frame,nbt={Item:{id:"minecraft:echo_shard",Count:1b}}] run function cv_va:allay_farm_as_allay

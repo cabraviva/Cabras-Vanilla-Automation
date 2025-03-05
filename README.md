@@ -65,6 +65,14 @@ A farm built exactly like shown in the image, allows you to input empty buckets 
 
 Building a structure like shown in the image, will result in a tiny, simple wither farm. It does not need soul sand, but requires 3 wither skulls to drop one nether star and one wither rose. Those will be inserted in the barrel below the soul campfire. To build the farm, you need to place a tnt minecart on a soul campfire. Underneath place a barrel. Now, you can either drop the skulls manually on top of the campfire, or use a dropper and a redstone clock to fully automate this process.
 
+#### Allay Ore Farm
+<details>
+  <summary>Expand</summary>
+
+![Preview Image](img/allay-farm.png)
+
+Building a structure like shown in the image, will result in a tiny, simple farm intended for ores. The item frame has to include one echo shard and will sit on top of a diamond block. The farm will generate one drop every 2 minutes. NOTE: This farm will not only farm ores, but can technically duplicate any block and even item with the use of shulker chests. So please make sure you set yourself rules on how and with which blocks you want to use this farm. I would only use it with cheap materials like copper, redstone, gold and maybe diamonds.
+
 </details>
 
 ### Planned
